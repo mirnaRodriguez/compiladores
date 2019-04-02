@@ -1,0 +1,22 @@
+https://help.github.com/articles/set-up-git
+
+https://help.github.com/articles/create-a-repo
+
+https://help.github.com/articles/fork-a-repo
+
+git clone url
+	Clona un repositorio remoto a la máquina local
+git add file
+	Agrega el archivo al control de versionamiento
+git commit -m 'comment'
+	Envía los cambios al repositorio origin local
+git push origin branchName
+	Envía los cambios commiteados del origin al branch (ej: master u otro branch)
+git checkout hashtag
+	Se posiciona en la versión commiteada representada por el hashtag
+git checkout -b branchName
+	Crea un branch del proyecto y se posiciona en el branch
+git merge branchName
+	Mezcla el origin actual con el branch (ej: master u otro branch)
+
+
